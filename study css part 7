@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h2  {
+            text-decoration: none;
+        }
+        a {
+            text-decoration: none;
+            color: brown;
+        }
+    </style>
+</head>
+<body>
+    <h2>property text deroration</h2>
+    <a href="=">instagram</a> |
+    <a href="=">github</a>
+</body>
+</html>
