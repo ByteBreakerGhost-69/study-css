@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            width:400px;
+            height:3px solid black;
+            margin:auto;
+        }
+
+        .kotak1, .kotak2, .kotak3 {
+            width:300px;
+            background-color: aqua;
+            margin:5px;
+            box-sizing: border-box;
+        }
+
+        .kotak1 {
+            padding:40px;
+            box-sizing: border-box;
+        }
+
+        .kotak2 {
+            border:5px solid black;
+            padding:40px;
+            box-sizing: border-box;
+        }
+
+        
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="kotak1">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam impedit iure, iusto, 
+            autem quis in eum incidunt praesentium explicabo ex quidem nulla minima fugit aut tenetur numquam,
+             quia suscipit. Magnam.</div>
+        <div class="kotak2">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam impedit iure, iusto, 
+            autem quis in eum incidunt praesentium explicabo ex quidem nulla minima fugit aut tenetur numquam,
+             quia suscipit. Magnam</div>
+        <div class="kotak3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam impedit iure, iusto, 
+            autem quis in eum incidunt praesentium explicabo ex quidem nulla minima fugit aut tenetur numquam,
+             quia suscipit. Magnam</div>
+    </div>
+</body>
+</html>
