@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        article {
+            width:300px;
+            height:200px;
+            background-color:antiquewhite;
+            overflow:auto;
+        }
+    </style>
+</head>
+<body>
+    <article>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dicta dolore laudantium 
+            eius molestiae aliquid. Architecto doloribus rerum ut molestias quod blanditiis!
+            Totam minus fugiat, nihil veniam officiis culpa perspiciatis? Corporis deserunt
+            quam quod, delectus harum saepe odio pariatur tenetur, possimus doloribus 
+            blanditiis accusantium odit nobis quis quaerat ab aliquam quibusdam 
+            sapiente, suscipit voluptatum! Optio nesciunt quisquam dolorem 
+            ipsam animi labore, ratione debitis sapiente. Cum soluta 
+            maiores, quia ut, consectetur hic iure fuga, optio vero
+            nostrum nemo corrupti! Consequuntur voluptas, impedit 
+            reprehenderit repellat, quaerat fugiat animi porro 
+            quasi, aliquam dolore maxime iste similique quos rem 
+            odit voluptatibus adipisci! Sit voluptatibus rerum quae
+            numquam aliquam corporis ipsam dolorem obcaecati delectus
+            architecto at accusantium, ducimus cupiditate itaque natus
+            deleniti assumenda harum nemo fuga possimus esse nesciunt reprehenderit?
+            Molestiae voluptatem laudantium velit expedita commodi perspiciatis
+            ipsam id a dolores ipsum, beatae cum corrupti, eius ex ad, atque
+            nemo. Ad recusandae sit vitae consectetur, doloremque eaque
+            obcaecati consequuntur accusantium ducimus temporibus, corporis
+            reprehenderit similique architecto quibusdam esse est tempore officiis. 
+            In nemo tempore provident exercitationem vel quis nulla quibusdam 
+            excepturi ducimus error minus sit maxime ea rerum, labore, porro 
+            aperiam enim voluptatibus aliquam? Debitis architecto quo cum repellat,
+            magnam commodi dignissimos. Possimus neque voluptate impedit ratione corporis, ullam, 
+            accusamus tempore repellat odio debitis quam excepturi doloribus commodi vitae aperiam 
+            error cum non quos cupiditate sint vel reiciendis at repudiandae nostrum? Delectus 
+            numquam odit quisquam, eum expedita atque odio provident reiciendis vero nemo sed,
+            harum corporis. Nostrum qui repellat perspiciatis et voluptates iure, sequi 
+            impedit ipsa sit ex? Suscipit quasi pariatur enim illum ut, reprehenderit itaque 
+            soluta voluptatum sit, omnis est impedit, laborum minima recusandae. Magni, 
+            voluptatibus. A eius placeat odit laboriosam ipsam inventore, itaque at sequi 
+            iure. Ratione facilis nobis natus quis aliquam esse architecto, possimus, 
+            impedit nesciunt modi et ab optio consequatur repudiandae sapiente.</p>
+    </article>
+</body>
+</html>
+
+<!-- overflow:auto; memberikan tempat geser di kanan, overflow:scroll itu ada tempat geser di bawah dan di kanan; -->
