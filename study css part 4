@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>elemen spesifik selector </title>
+    <style>
+        p cite {                
+            color: blue;
+        }
+
+        p {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <h2>hai🙌</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, 
+        debitis perspiciatis dolores commodi, natus quasi illum culpa 
+        magnam earum nemo nulla laudantium, cumque deleniti sapiente iure 
+        quaerat alias sit dolore.</p>
+    <p>
+        <cite>maulana</cite> berkata janganlah kalian fokus ke hal yang gak ada gunanya 
+    </p>
+     <blockquote>
+        <cite>maulana</cite> berkata janganlah kalian fokus ke hal yang gak ada gunanya 
+     </blockquote>
+     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Et praesentium exercitationem,
+         facere assumenda mollitia, facilis obcaecati consectetur saepe officiis nostrum 
+         sunt, beatae laborum aut. Repellat amet magni quisquam impedit velit.</p>
+</body>
+</html>
+
+<!-- p cite { / yang ada sebelum { itu nanti berwarna -->
