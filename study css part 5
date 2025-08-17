@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .navigasi:link {
+            color: rgb(247, 0, 0);
+        }
+
+        .navigasi:visited{
+            color: rgb(14, 216, 14);
+        }
+
+        .navigasi:hover{
+            background-color: black;
+            color: aliceblue;
+        }
+
+        .navigasi:active {
+            color: rgb(0, 255, 42);
+        }
+
+        ul li a:link{
+            color: rgb(127, 0, 231);
+        }
+
+        ul li a:visited {
+            color: blue;
+        }
+
+        ul li a:hover {
+            background-color: blueviolet;
+        }
+
+        ul li a:active {
+            color: bisque;
+        }
+    </style>
+</head>
+<body>
+    <a href="=" class="navigasi">home</a>
+
+    <ul>
+        <li><a href="=">home</a></li>
+        <li><a href="=">about</a></li>
+        <li><a href="=">service</a></li>
+        <li><a href="=">contact</a></li>
+    </ul>
+</body>
+</html>
