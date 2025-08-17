@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>dimensi di css caranya menentukan lebar dan tinggi</title>
+    <style>
+        .container {
+            width: 1000px;
+            height: 100px;
+            background-color: aqua;
+        }
+
+        .kotak {
+            width: 50%;
+            height: 100%;
+            background-color: red;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="kotak"></div>
+    </div>
+</body>
+</html>
+
+<!-- memunculkan <dif> dengan .___ ex: .container-->
