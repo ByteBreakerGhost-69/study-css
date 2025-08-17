@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .capital {
+            text-transform: capitalize;
+        }
+
+        .uppercase {
+            text-transform: uppercase;
+        }
+
+        .lowercase {
+            text-transform: lowercase;
+        }
+    </style>
+</head>
+<body>
+    <p class="capital">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias culpa quidem, odio
+         quas doloremque eveniet sunt ducimus, cum iusto consequuntur voluptas 
+         nesciunt vitae vero veniam itaque? Blanditiis, illum veniam? Error?</p>
+
+    <p class="uppercase">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Molestias possimus minus
+         nostrum omnis animi? Eum sunt eius alias ad veritatis odit dicta. Ullam 
+         doloremque nisi aliquid reprehenderit enim blanditiis eos.</p>
+
+    <p class="lowercase">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Magnam enim repellendus 
+        necessitatibus iure totam dolores, amet at ducimus velit, magni neque 
+        praesentium nam. Explicabo repudiandae tempore sint dicta hic iure!</p>
+</body>
+</html>
