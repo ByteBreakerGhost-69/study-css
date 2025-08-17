@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .p1 {
+            line-height: 40px;
+        }
+
+        .p2 {
+            text-indent: 60PX;
+        }
+    </style>
+</head>
+<body>
+    <p class="p1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Libero quia minus 
+        iste consequatur fugiat rerum corrupti eos corporis natus. Iure assumenda
+         ea molestias soluta aperiam tempore, rem iusto! Similique, eligendi!</p>
+
+    <p class="p2"></p> ipsum dolor sit amet consectetur adipisicing elit. Dolor, porro. Eum
+         nesciunt tempore similique, asperiores sapiente non dolore hic, odit 
+         architecto id aliquid? Quis architecto facere rerum iusto sed? 
+         Dolorum!</p>
+</body>
+</html>
