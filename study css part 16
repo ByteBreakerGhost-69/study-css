@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            background-color: #000080; 
+            background-image: url(https://i.postimg.cc/9M0y1C5C/kali-linux-os-metallic-blue-grey-rg54s2bxavio9t7l.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+            height:10000px;
+            background-attachment: fixed;
+            
+        }
+
+        .jumbutroon {
+            width:900px;
+            height:500px;
+            border:1px solid black;
+            margin: auto;
+            background-image: url(https://i.postimg.cc/NMnmzSBT/1044079.png);
+            background-size:cover;
+            
+        }
+    </style>
+</head>
+<body>
+    <div class="jumbutroon"></div>
+</body>
+</html>
