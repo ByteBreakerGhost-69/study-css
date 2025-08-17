@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .container {
+            width:800px;
+            margin:30px auto;
+        }
+
+        img {
+            float:right;
+            margin-right: 10px;
+            width:300px;
+        }
+
+        .class {
+            clear:left;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h2>element float pada css</h2>
+    <img src="" alt="">
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptate quibusdam officia eveniet quos porro deleniti laborum adipisci possimus molestiae iste officiis pariatur 
+        numquam impedit facilis accusantium repellat nobis omnis, temporibus odit. Quibusdam deleniti voluptatibus assumenda atque? Quos, non deserunt praesentium reprehenderit 
+        vitae asperiores ducimus suscipit rerum modi ut molestias itaque libero. Quo error est ipsa dolorum nihil saepe tempore vitae eligendi nobis maiores quia voluptate porro,
+         animi assumenda recusandae minus corrupti a consectetur iusto! Facilis cupiditate dolor dolorum dolores iusto quod. Similique odit neque cum perferendis tempore ullam! 
+         Tempore amet unde impedit? Omnis aliquid expedita at magni voluptates? Fugit temporibus placeat aperiam, laboriosam et, ea iure cupiditate in quas expedita ipsum sint. 
+         Voluptatem blanditiis doloremque consectetur numquam mollitia illo unde earum odio eligendi. Animi optio dolorum eius et, dignissimos omnis dolor nam sit nemo, iste 
+         itaque maiores tempore incidunt rem! Reiciendis quaerat magnam necessitatibus maxime ipsam, ipsa non consequatur officia blanditiis? Quae, impedit tempore. Cumque ex 
+         earum vero pariatur tempore sapiente, et reiciendis ipsa! Quasi, dolor. Optio quisquam sapiente doloribus, vel dicta eos natus perferendis quaerat debitis, facere,
+          nesciunt ducimus.</p>
+        <div class="class"></div>
+    <h2>judul 2</h2>
+    <img src="" alt="">
+</div>
+</body>
+</html>
+
+<!-- left akan berada di sebelah kiri, right akan berada di sebelah kanan -->
