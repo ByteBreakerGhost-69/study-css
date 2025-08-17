@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>group selector</title>
+    <style>
+        h2,p,h3 {
+            color: rgb(7, 25, 104);
+        }
+
+        .my_skills {
+            color: rgb(70, 104, 7);
+        }
+
+    </style>
+</head>
+<body>
+    <h2>judul </h2>
+    <p>tidak ada yang gak mungkin di dunia ini selagi kalian masih berada di bawah matahari</p>
+    <h3>...</h3>
+    <h3 class="my_skills">tidak ada yang tidak mungkin</h3>
+    <h2 class="my_skills">selalulah upgrade diri</h2>
+</body>
+</html>
