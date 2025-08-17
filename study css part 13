@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        hr {
+            border-width: 5px;
+            border-style: solid;
+            border-color: rgb(0, 0, 0);
+        }
+
+        hr {
+            border: 1px solid rgb(0, 0, 0);
+        }
+
+        .lv {
+            width: 200px;
+            height: 200px;
+            border: 5px solid blue;
+        }
+        
+        .lv2 {
+            width: 200px;
+            height: 200px;
+            border-left-style: solid;
+        }
+
+        .lv3 {
+            width:200px;
+            height:200;
+            border-top-style: double;
+        }
+
+        .lv4 {
+            width: 200px;
+            height: 200px;
+            border-bottom-style:dotted;
+        }
+    </style>
+</head>
+<body>
+    <hr>
+    <div class="lv"></div>
+    <div class="lv2"></div>
+    <div class="lv3"></div>
+    <div class="lv4"></div>
+    <div class="lv5"></div>
+</body>
+</html>
+
+<!-- <hr> membuat garis horizontal, hr {...} menambah ketebalan garis -->
+<!-- .___ itu untuk membuat garis vertikal -->
