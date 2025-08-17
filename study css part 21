@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>free register</title>
+    <style>
+        * {
+            margin: 0px;
+            padding: 0px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        form{
+            width: 500px;
+            margin: 40px auto;
+            border: 1px solid navy;
+            padding: 20px;
+            border-radius:10px;
+        }
+
+        input[type="text"] {
+            width:49%;
+            padding: 10px;
+            margin-top:10px ;
+            box-sizing: border-box;
+        }
+
+        input[type="email"], input[type="password"] {
+            display: block;
+            width:100%;
+            padding: 10px;
+            box-sizing: border-box;
+            margin-top: 10px;
+        }
+
+        input,button {
+            border: none;
+            border-bottom: 1px solid #ccc;
+        }
+
+        button {
+            width: 50%;
+            padding: 10px;
+            margin-top: 20px;
+            margin-left: 25%;
+            border-radius: 10px;
+            color: rgb(0, 0, 0);
+            background-color:rgb(27, 162, 180) ;
+        }
+
+        button:hover {
+            background-color: blueviolet;
+        }
+
+        h2 {
+            margin-bottom: 30px;
+        }
+    </style>
+</head>
+<body>
+    <form action="">
+        <h2>form registrasi</h2>
+        <input type="text" placeholder="nama depan">
+        <input type="text" placeholder="nama belakang">
+        <input type="email" placeholder="alamat email">
+        <input type="password" placeholder="password">
+        <input type="password" placeholder="ulangi password">
+        <button type="submit">daftar</button>
+    </form>
+</body>
+</html>
