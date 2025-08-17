@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        input {
+            display: block;
+            margin-top: 5px;
+        }
+
+        ul li {
+            display: inline-block;
+            height: 200px;
+            width:100px;
+            background-color: aquamarine;
+            margin-top: 30px;
+            margin-bottom:30px;
+        }
+    </style>
+</head>
+<body>
+    <h1>judul artikel</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor at impedit libero 
+        exercitationem iste nisi reiciendis nemo a, suscipit non quam quod possimus 
+        incidunt commodi eius similique aliquam et? Adipisci!</p>
+
+    <ul>
+        <li>list elements</li>
+        <li>list elements</li>
+        <li>list elements</li>
+        <li>list elements</li>
+    </ul>
+
+    <a href="">link</a>
+    <a href="">link</a>
+    <a href="">link</a>
+
+    <input type="text">
+    <input type="text">
+    <input type="text">
+    <input type="text">
+    <input type="text">
+</body>
+</html>
