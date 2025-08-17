@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        h2 {
+            color: brown;
+        }
+
+        p {
+            color: chocolate;
+        }
+
+        .red {
+            color: rgb(89, 0, 255);
+        }
+
+        .purple {
+            color: skyblue  ;
+        }
+
+        #red {
+            color: aquamarine;
+        }
+    </style>
+</head>
+<body>
+    <!-- tag selecontor -->
+    <h2>apa itu skill</h2>
+    <p>skill adalah sebuah keahlian/kemampuan yang kalian miliki, seperti coding, hacking, dll</p>
+
+    <!-- class selector -->
+    <h2 class="purple">skill</h2>
+    <p class="red">skill sangatlah penting dalam dunia kerja dan update diri sendiri</p>
+
+    <!-- id selector -->
+    <h2 id="red">every my skill is hard</h2>
+</body>
+</html>
