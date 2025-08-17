@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .kotak {
+            width:200px;
+            height:200px;
+            border:5px solid black ;
+            margin:auto;
+            border-radius:40px;
+        }
+
+        .kotak2 {
+            width:200px;
+            height:200px;
+            border:5px solid black;
+            margin:auto;
+            border-top-left-radius:50px;
+            border-bottom-left-radius:40px;
+            border-bottom-right-radius:40px;
+            border-top-right-radius:40px;
+        }
+
+        .kotak3 {
+            width:200px;
+            height:200px;
+            border:5px solid black;
+            margin:auto;
+            border-radius:100%;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="kotak"></div>
+    <div class="kotak2"></div>
+    <div class="kotak3"></div>
+</body>
+</html>
+
+<!-- margin:auto; menjadikan kotak itu di tengah -->
+<!-- border-radius:40px; menjadikan ujung dari kotak itu berubah mengikuti ukura _px -->
+<!--  -->
