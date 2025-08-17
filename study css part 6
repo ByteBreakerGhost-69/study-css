@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>font</title>
+    <style>
+        .p1 {
+            font-family: 'Courier New', Courier, monospace;
+        }
+
+        .p2 {
+            font-size: 24px;
+        }
+
+        .p3 {
+            font-weight:bold;
+        }
+
+        .p4 {
+            font-style: italic;
+        }
+    </style>
+</head>
+<body>
+    <p class="p1">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Similique, 
+        minus cum provident cupiditate, iusto repellat consequuntur 
+        reiciendis placeat quaerat, libero explicabo inventore 
+        ipsa facilis eveniet enim illum. Eos, commodi ad?</p>
+
+    <p class="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, fuga 
+        maiores fugit velit libero harum et neque asperiores ipsa 
+        laudantium, non quae voluptates nulla iusto, accusamus 
+        nihil quidem cum perferendis?</p>
+
+    <p class="p3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio culpa
+         expedita libero neque incidunt possimus, vitae et enim doloremque
+          quo illum quia obcaecati perferendis ab id hic laboriosam?
+           Provident, exercitationem?</p>
+
+    <p class="p4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores quia
+         vel, a cumque nihil deserunt, quae, ipsum praesentium iste porro 
+         ut animi! Est unde quod, optio sed placeat iure illum.</p>
+</body>
+</html>
